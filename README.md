@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL]([https://your-solution-url.com](https://github.com/Sri507/Frontend-Mentor_Faq-accordion-card))
-- Live Site URL: [live site URL]([https://your-live-site-url.com](https://sri507.github.io/Frontend-Mentor_Faq-accordion-card/))
+- Solution URL: [solution URL](https://github.com/Sri507/Frontend-Mentor_Faq-accordion-card)
+- Live Site URL: [live site URL](https://sri507.github.io/Frontend-Mentor_Faq-accordion-card/)
 
 ## My process
 

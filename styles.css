@@ -24,7 +24,7 @@ body {
   font-family: var(--var-ff);
   display: flex;
   flex-direction: column;
-  height: 100svh;
+  height: 140svh;
   width: 100%;
   background: var(--var-l-pink);
   color: var(--var-dark-purple);
